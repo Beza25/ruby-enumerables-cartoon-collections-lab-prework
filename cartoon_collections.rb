@@ -11,8 +11,7 @@ def summon_captain_planet(planeteer_calls)
   new_array
 end
 
-def long_planeteer_calls(short_words, assorted_words)
-  array.select do |
+
   
 def find_the_cheese(array)
   array.find{|cheese| cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"}
