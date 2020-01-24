@@ -15,6 +15,6 @@ def long_planeteer_calls(short_words, assorted_words)
   array.select do |
   
 def find_the_cheese(array)
-  array.find{}
+  array.find{|cheese| cheese == "cheddar" || cheese == "gouda" || cheese == "camembert"}
 end 
 
