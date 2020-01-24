@@ -11,6 +11,7 @@ def summon_captain_planet(planeteer_calls)
   new_array
 end
 
-def long_planeteer_calls()
+def long_planeteer_calls(short_words, assorted_words)
+  
 
 
