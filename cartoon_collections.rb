@@ -12,7 +12,7 @@ def summon_captain_planet(planeteer_calls)
 end
 
 def long_planeteer_calls(short_words, assorted_words)
-  array.select
+  array.select do |
   
 def find_the_cheese()
 
