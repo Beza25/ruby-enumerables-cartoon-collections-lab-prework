@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(planeteer_calls)
   new_array =planeteer_calls.map do |planeteer_call|
-    puts "#{planeteer_call}.captli"
+    puts "#{planeteer_call.captilize}"
 
 
 
