@@ -1,7 +1,7 @@
-def roll_call_dwarves (dwarfs)
-  dwarfs.each do |dwarf|
+def roll_call_dwarves (dwarves)
+  dwarves.each do |dwarf|
     i= 0 
-    while i < drwarves.length
+    while i < dwarves.length
     puts i + ".#{dwarf}"
     i +=1 
     end
